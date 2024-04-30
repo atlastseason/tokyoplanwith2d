@@ -34,3 +34,7 @@ border-collapse: collapse;
 }
 
 tr:hover {background-color: chartreuse;}
+
+img,iframe{
+    width:100%;
+}

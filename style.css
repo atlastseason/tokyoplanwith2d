@@ -1,18 +1,16 @@
 * {
     margin-left: 2%;
     margin-right: 2%;
-    padding-inline: 1%;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
 }
 head,
-h1,
-h2 {
-    text-align: center;
-    font-size: 40px;
+h1 {
+    font-size: 50px;
 }
-body {
+h2 {
+    font-size: 40px;
 }
 li {
     text-align: left;
@@ -24,20 +22,27 @@ ul {
     list-style-position: inside;
 }
 table {
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 th,
 td {
-    align-items: center;
-    border-collapse: collapse;
-    border-bottom: 1px solid #ddd;
+    border-style: dashed;
+    padding: 10px;
 }
 
-tr:hover {
+tr :hover {
     background-color: chartreuse;
 }
 
 img {
-    width: 100;
+    width: auto;
+    max-width: 80%;
+    align-items: center;
+}
+code {
+    padding-inline: 20%;
+    background-color: #ddd;
 }

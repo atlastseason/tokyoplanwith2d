@@ -38,7 +38,6 @@ tr:hover {
     background-color: chartreuse;
 }
 
-img,
-iframe {
-    width: 100%;
+img {
+    width: 20%;
 }

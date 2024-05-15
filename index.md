@@ -115,15 +115,13 @@
 
 ### รวมที่พักที่เลือกๆกันไว้
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcQx2rNqWuzchxHLZEuo21sh1khGDiqF0mXJXYXhJjgex1Sv-vruAbC48MH6hw6IaveTj5DMZ6Yzul/pubhtml?widget=true&amp;headers=false" width=100% height=640></iframe>
+[ที่พักที่เลือกกัน](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcQx2rNqWuzchxHLZEuo21sh1khGDiqF0mXJXYXhJjgex1Sv-vruAbC48MH6hw6IaveTj5DMZ6Yzul/pubhtml?widget=true&amp;headers=false)
 
 +++
 
 # Travel Plan
 
-[My map](https://www.google.com/maps/d/u/0/edit?mid=1HxTXacgwlQAcE23toWbD4WmmZsnziJk&usp=sharing)
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HxTXacgwlQAcE23toWbD4WmmZsnziJk&ehbc=2E312F" width=100% height="720"></iframe>
+[ปักหมุดสถานที่ต่างๆ](https://www.google.com/maps/d/u/0/edit?mid=1HxTXacgwlQAcE23toWbD4WmmZsnziJk&usp=sharing)
 
 ## รอบๆ คาวาคุจิโกะ
 
